@@ -78,7 +78,6 @@
       <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
         alt="express" />
     </a>
-
     <a href="https://Django.com" target="_blank">
       <img src="https://img.shields.io/badge/Django-61DAFB.svg?style=for-the-badge&logo=django&logoColor=white"
         alt="Django" />
