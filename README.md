@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Hubert Baran</h1>
+<h1 align="center">Hello, I am Full stack developer</h1>
 <br />
 <p align="center">
   <a href="https://kanmyos.github.io/">
